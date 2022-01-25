@@ -13,5 +13,5 @@
 
 </div>
 
-# <div align="center">Handwritten Digits recognition using Enron</div>
+# <div align="center">Handwritten Digits recognition using Neural Networks</div>
 <div align="center"><img src="https://github.com/Pradnya1208/Handwritten-digits-recognition-using-neural-networks/blob/main/output/intro.gif?raw=true" width="60%"></div>
